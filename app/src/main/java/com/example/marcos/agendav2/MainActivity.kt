@@ -6,6 +6,10 @@ import android.os.Bundle
 import com.marcos.agendaappdroid.Percistencia
 import kotlinx.android.synthetic.main.activity_main_cadastro.*
 
+/**
+ * Initial Commit 12/06/2019
+ */
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var PercistenciaDB: Percistencia
